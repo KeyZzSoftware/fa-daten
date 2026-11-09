@@ -1,0 +1,249 @@
+{
+ "nr": 1,
+ "datum": "2026-11-09",
+ "stand": "2026-11-09T12:30:00+01:00",
+ "naechstes": "2026-11-09T15:00:00+01:00",
+ "news": [
+  {
+   "zeit": "2026-11-08T22:00:00+01:00",
+   "wichtig": 3,
+   "titel": "Nvidia: Verwaltungsrat lässt Vorgänge um Chef Jensen Huang prüfen",
+   "text": "Nvidias Verwaltungsrat kündigte am Sonntag eine unabhängige Untersuchung an. Laut Berichten war Huang Ziel eines ausländischen Geheimdienstes; er räumte eine Affäre ein. Hinweise auf abgeflossene Firmendaten gebe es nicht. Die Aktie fiel vorbörslich zeitweise um fast 5 %.",
+   "ort": "USA",
+   "quellen": [
+    [
+     "Investing.com",
+     "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-05T22:00:00+01:00",
+   "wichtig": 3,
+   "titel": "KI-Ausverkauf nach den US-Zwischenwahlen",
+   "text": "Am Donnerstag fiel der Nasdaq Composite um 5,5 %, der S&P 500 um 4,4 %, der Dow um 1.833 Punkte. Anleger fürchten nach dem Erfolg der Demokraten strengere Regeln für KI und Rechenzentren. Nvidia verlor über 9 %.",
+   "ort": "USA",
+   "quellen": [
+    [
+     "Fox Business",
+     "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-09T12:03:00+01:00",
+   "wichtig": 2,
+   "titel": "DAX wieder knapp über 26.000 Punkten",
+   "text": "Der Leitindex legt am Mittag rund 0,8 % zu und erholt sich von der Korrektur nach dem Rekord vom Donnerstag. SAP steigt nach einer Kaufempfehlung von JPMorgan um 1,8 %. Rheinmetall stabilisiert sich nach starken Verlusten.",
+   "ort": "Deutschland",
+   "quellen": [
+    [
+     "finanzen.ch / dpa-AFX",
+     "https://www.finanzen.ch/nachrichten/aktien/aktien-frankfurt-dax-lugt-nach-korrektur-wieder-ueber-26-000-punkte-1036736470"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-09T08:00:00+01:00",
+   "wichtig": 2,
+   "titel": "China verlängert Pause für Strafzölle auf US-Waren",
+   "text": "Peking setzt den Zusatzzoll von 24 % auf US-Importe ab 10. November für zwei weitere Monate aus. Auch Hafengebühren für US-Schiffe bleiben bis 10. Januar 2027 ausgesetzt. Ein Grundzoll von 10 % gilt weiter.",
+   "ort": "China",
+   "quellen": [
+    [
+     "SRN News / Reuters",
+     "https://srnnews.com/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months/"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-06T22:00:00+01:00",
+   "wichtig": 2,
+   "titel": "Tesla-Aktie steigt kräftig nach Cybertruck-Aus",
+   "text": "Tesla legte am Freitag gut 4 % zu und erholte sich teilweise vom Einbruch am Donnerstag. Elon Musk bestätigte auf X, dass die Cybertruck-Produktion in Texas Mitte 2027 endet. Eine offizielle Firmenmitteilung gibt es noch nicht.",
+   "aktie": {
+    "n": "Tesla",
+    "d": 4.22
+   },
+   "warum": "Musk kündigte an, die Cybertruck-Fertigung Mitte 2027 einzustellen, um Platz für das fahrerlose Robotaxi Cybercab zu schaffen.",
+   "ort": "USA",
+   "quellen": [
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/investing/2026/11/06/tesla-jumped-4-the-morning-musk-killed-the-cybertruck-and-investors-know-what-replaces-it/"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-06T14:30:00+01:00",
+   "wichtig": 2,
+   "titel": "US-Arbeitsmarkt: 165.000 neue Stellen im Oktober",
+   "text": "Die US-Wirtschaft schuf deutlich mehr Jobs als erwartet, die Arbeitslosenquote sank auf 4,1 %. Starke Löhne halten eine Zinserhöhung der Fed im Dezember im Gespräch. Am Dienstag folgen die Inflationsdaten für Oktober.",
+   "ort": "USA",
+   "quellen": [
+    [
+     "Morningstar",
+     "https://www.morningstar.com/economy/hot-october-jobs-report-raises-odds-december-rate-hike"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-05T09:00:00+01:00",
+   "wichtig": 2,
+   "titel": "Rheinmetall bricht nach Gewinnwarnung ein",
+   "text": "Wegen verzögerter Aufträge senkte der Rüstungskonzern erneut seine Ziele, die Aktie fiel am Donnerstag um über 17 %. Bank of America stufte auf „Neutral“ ab. Am Montag notiert sie auf dem tiefsten Stand seit Februar 2025.",
+   "ort": "Deutschland",
+   "quellen": [
+    [
+     "Euronews",
+     "https://de.euronews.com/2026/11/05/rheinmetall-aktie-bricht-nach-gewinnwarnung-wegen-auftragsverzogerungen-um-uber-17-ein"
+    ],
+    [
+     "ARIVA / dpa-AFX",
+     "https://www.ariva.de/news/aktie-im-fokus-rheinmetall-weiter-unter-druck-nach-12197893"
+    ]
+   ]
+  },
+  {
+   "zeit": "2026-11-07T14:00:00+01:00",
+   "wichtig": 1,
+   "titel": "Berkshire Hathaway kauft mehr eigene Aktien zurück",
+   "text": "Buffetts Holding verdiente im dritten Quartal operativ 12,7 Mrd. Dollar, 5,8 % weniger als vor einem Jahr. Für Aktienrückkäufe gab sie 9,6 Mrd. Dollar aus, mehr als doppelt so viel wie im Vorquartal.",
+   "ort": "USA",
+   "quellen": [
+    [
+     "StockAnalysis",
+     "https://stockanalysis.com/news/berkshire-q3-operating-earnings-fall-buybacks/"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+    ]
+   ]
+  }
+ ],
+ "thema": {
+  "titel": "Jahresende: Freibetrag und Verluste clever nutzen",
+  "unter": "Was Sparer bis Dezember bei Zinsen, Dividenden und Aktien erledigen sollten",
+  "rubrik": "Steuern",
+  "bereich": "steuern",
+  "seiten": [
+   {
+    "h": "",
+    "absaetze": [
+     [
+      "Der Freibetrag",
+      "Auf Zinsen, Dividenden und Kursgewinne fällt keine Steuer an, solange sie im Jahr 1.000 € nicht übersteigen. Für Ehepaare und eingetragene Partner sind es zusammen 2.000 €."
+     ],
+     [
+      "Freistellungsauftrag",
+      "Damit die Bank nichts einbehält, braucht sie einen Freistellungsauftrag. Er lässt sich auf mehrere Banken verteilen, insgesamt aber nur bis zur Höhe des Freibetrags."
+     ],
+     [
+      "Jetzt prüfen",
+      "Passt die Verteilung nicht mehr, etwa weil Zinsen gestiegen sind? Aufträge können bis zum Jahresende geändert werden, aber nicht unter den Betrag, den die Bank schon genutzt hat."
+     ],
+     [
+      "Ohne Auftrag",
+      "Ohne Freistellungsauftrag zieht die Bank 25 % Abgeltungsteuer plus Soli (und ggf. Kirchensteuer) ab. Das Geld gibt es dann nur über die Steuererklärung zurück."
+     ]
+    ],
+    "merke": "1.000 € pro Person sind steuerfrei – aber nur, wenn die Bank davon weiß."
+   },
+   {
+    "h": "Verluste und Sonderfälle",
+    "absaetze": [
+     [
+      "Verlusttopf",
+      "Jede Bank verrechnet Gewinne und Verluste automatisch. Aktienverluste dürfen dabei nur mit Aktiengewinnen verrechnet werden, andere Verluste mit allen Kapitalerträgen."
+     ],
+     [
+      "Mehrere Banken",
+      "Gewinne bei Bank A, Verluste bei Bank B? Wer bis 15. Dezember bei Bank B eine Verlustbescheinigung beantragt, kann beides in der Steuererklärung verrechnen."
+     ],
+     [
+      "Günstigerprüfung",
+      "Liegt der persönliche Steuersatz unter 25 %, etwa bei Rentnern oder Studenten, lohnt ein Kreuz in der Anlage KAP. Das Finanzamt nimmt dann den niedrigeren Satz."
+     ],
+     [
+      "Kinder",
+      "Auch Kinder haben einen eigenen Freibetrag von 1.000 €. Eltern können für das Konto des Kindes einen Freistellungsauftrag stellen."
+     ]
+    ],
+    "merke": "Verlustbescheinigung bis 15. Dezember beantragen, sonst bleiben Verluste bis nächstes Jahr bei der Bank."
+   }
+  ],
+  "fach": [
+   {
+    "h": "",
+    "absaetze": [
+     [
+      "§ 20 Abs. 9 EStG",
+      "Sparer-Pauschbetrag 1.000 €, bei Zusammenveranlagung 2.000 €. Tatsächliche Werbungskosten sind daneben nicht abziehbar."
+     ],
+     [
+      "§ 44a EStG",
+      "Freistellungsauftrag und NV-Bescheinigung befreien vom Steuerabzug. Die Bank meldet die freigestellten Beträge an das Bundeszentralamt für Steuern."
+     ],
+     [
+      "Steuersatz",
+      "Abgeltungsteuer 25 % (§ 32d Abs. 1 EStG) zzgl. 5,5 % Soli darauf: 26,375 %, mit Kirchensteuer entsprechend mehr."
+     ]
+    ],
+    "merke": "Der Pauschbetrag ersetzt jeden Werbungskostenabzug."
+   },
+   {
+    "h": "Verlustverrechnung",
+    "absaetze": [
+     [
+      "§ 20 Abs. 6 EStG",
+      "Verluste aus Aktienveräußerungen sind nur mit Gewinnen aus Aktienveräußerungen verrechenbar."
+     ],
+     [
+      "§ 43a Abs. 3 EStG",
+      "Antrag auf Verlustbescheinigung bis 15.12.; dann schließt die Bank den Verlusttopf, die Verrechnung erfolgt in der Veranlagung."
+     ],
+     [
+      "§ 32d Abs. 6 EStG",
+      "Günstigerprüfung auf Antrag: Kapitalerträge werden mit dem tariflichen Satz besteuert, wenn das günstiger ist."
+     ]
+    ]
+   }
+  ],
+  "quellen": [
+   [
+    "§ 20 EStG (gesetze-im-internet.de)",
+    "https://www.gesetze-im-internet.de/estg/__20.html"
+   ],
+   [
+    "§ 43a EStG",
+    "https://www.gesetze-im-internet.de/estg/__43a.html"
+   ],
+   [
+    "§ 32d EStG",
+    "https://www.gesetze-im-internet.de/estg/__32d.html"
+   ],
+   [
+    "§ 44a EStG",
+    "https://www.gesetze-im-internet.de/estg/__44a.html"
+   ],
+   [
+    "Sparkasse: Sparerpauschbetrag",
+    "https://www.sparkasse.de/pk/ratgeber/finanzplanung/investieren/sparerpauschbetrag.html"
+   ]
+  ]
+ },
+ "archiv": []
+}
